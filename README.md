@@ -1,4 +1,6 @@
-Hi, I’m Shweta Suman 👋
+## Hi, I’m Shweta Suman 👋
+
+---
 
 I’m a software engineer with several years of experience across the JavaScript backend and Python ecosystems. I enjoy writing clean, maintainable code and building systems that solve real-world problems at scale.
 
@@ -33,6 +35,6 @@ Personal Website: https://pinksocks.xyz/
 
 ## 🔗 Connect with Me
 
-LinkedIn: [(add link here)](https://www.linkedin.com/in/shweta-suman-2b5b11175/)
+LinkedIn: [https://www.linkedin.com/in/shweta-suman-2b5b11175/]
 
 
