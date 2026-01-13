@@ -13,7 +13,6 @@ Outside of work, I actively tinker with data structures, problem-solving, and si
 
 When I’m not engineering, you’ll usually find me trekking or lifting weights.
 
----
 
 ## 🛠 Tech Stack
 
