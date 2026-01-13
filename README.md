@@ -1,6 +1,5 @@
 ## Hi, I’m Shweta Suman 👋
 
----
 
 I’m a software engineer with several years of experience across the JavaScript backend and Python ecosystems. I enjoy writing clean, maintainable code and building systems that solve real-world problems at scale.
 
@@ -26,12 +25,11 @@ When I’m not engineering, you’ll usually find me trekking or lifting weights
 | **Cloud & Infrastructure** | AWS (backend-focused services)                                                                            |
 | **Observability**          | Distributed tracing, monitoring                                                                           |
 
----
+
 ## 📌 Pinned Projects
 
 Personal Website: https://pinksocks.xyz/
 
----
 
 ## 🔗 Connect with Me
 
