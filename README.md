@@ -27,7 +27,10 @@ When I’m not engineering, you’ll usually find me trekking or lifting weights
 
 ## 📌 Pinned Projects
 
-Personal Website: https://pinksocks.xyz/
+| Project | Description |
+|---------|-------------|
+| [pinksocks.xyz](https://pinksocks.xyz/) | Personal Website |
+| [fair-prizes](https://github.com/cosmologist10/fair-prizes) | Fair prize distribution using Zipf distribution |
 
 
 ## 🔗 Connect with Me
