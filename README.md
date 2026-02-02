@@ -31,6 +31,7 @@ When I’m not engineering, you’ll usually find me trekking or lifting weights
 |---------|-------------|
 | [pinksocks.xyz](https://pinksocks.xyz/) | Personal Website |
 | [fair-prizes](https://github.com/cosmologist10/fair-prizes) | Fair prize distribution using Zipf distribution |
+| [irrigation-system](https://github.com/cosmologist10/irrigation-system) | IoT application for automated plant irrigation with real-time moisture monitoring |
 
 
 ## 🔗 Connect with Me
